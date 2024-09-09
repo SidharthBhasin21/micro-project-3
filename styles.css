@@ -58,6 +58,7 @@ html, body {
     color: black;
     font-size: 1.3rem;
     cursor: pointer;
+    -webkit-tap-highlight-color: transparent;
 }
 .btn:hover {
     scale: 1.09;
