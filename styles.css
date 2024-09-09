@@ -13,6 +13,7 @@ html, body {
     align-items: center;
 }
 .main {
+    /* width: 90%; */
     display: flex;
     flex-direction: column;
     padding: 30px;
@@ -22,10 +23,11 @@ html, body {
 .inputContainer {
     background-color: #181f32;
     padding: 10px;
-    border-radius: 12px;
+    border-radius: 15px;
 
 }
 .inputContainer input {
+    width: 100%;
     padding: 10px;
     border-radius: 12px;
     border: none;
