@@ -66,9 +66,10 @@ html, body {
 }
 .btn:active {
     scale: 1;
+    background-color: #eae3db;
     box-shadow: inset 2px 2px 5px;
-    opacity: 0.7;
 }
+
 #reset {
     background-color: #647299;
     grid-column: span 2;
